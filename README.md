@@ -1,6 +1,6 @@
 # Mayhem::Rails
 
-TODO: Write a gem description
+Mayhem is a tool for sowing discord within text. Mayhem Rails makes it easy to include in a Rails project.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+You can now use Mayhem within your Rails code. See the [Mayhem gem](https://github.com/sephonicus/mayhem "Mayhem") for example usage.
 
 ## Contributing
 
