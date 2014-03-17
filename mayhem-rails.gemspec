@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['sephonicus@gmail.com']
   spec.description   = 'Mayhem is a tool for sowing discord within text. Mayhem Rails makes it easy to include in a Rails project.'
   spec.summary       = 'Mayhem for Rails.'
-  spec.homepage      = ''
+  spec.homepage      = 'https://github.com/sephonicus/mayhem-rails'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($/)
